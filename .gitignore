@@ -1,0 +1,23 @@
+# Project exclude paths
+*.iml
+.DS_Store
+.externalNativeBuild
+/local.properties
+/captures
+/.gradle/
+/android/build/
+/common/build/
+/buildSrc/.gradle
+/buildSrc/build
+/.idea/
+/build/
+/sample_ios/Pods
+/sample_ios/Restaurant.xcworkspace/xcuserdata
+/sample_ios/Podfile.lock
+/sample_ios/.idea
+/builds
+/android/google-services.json
+
+# Project exclude paths
+/commonsample/build/
+/commonsample/build/intermediates/javac/debug/classes/
